@@ -165,3 +165,34 @@ ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c7
 [![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+
+---
+
+# 📘 Learning Notes / Fork Context
+
+This repository is an educational fork of the original Cyfrin `html-fund-me-cu` project.
+
+It was used as part of a Web3 development learning path to understand how frontend applications interact with Ethereum smart contracts.
+
+## Key Concepts Practiced
+
+- MetaMask browser wallet integration (`window.ethereum`)
+- Connecting a frontend to a local blockchain (Anvil)
+- Sending transactions from a UI to a smart contract
+- Reading blockchain state using Ethers.js
+- Contract interaction via ABI + address
+- Local development workflow using Foundry
+
+## Local Development Environment
+
+- Anvil (local EVM blockchain)
+- Foundry (contract deployment)
+- MetaMask (wallet simulation with test accounts)
+- Live Server (frontend execution)
+
+## Important Note
+
+This is not an original production application.  
+It is a fork created strictly for educational purposes while following the Cyfrin Web3 development course.
+
+All credit for the original implementation belongs to Cyfrin and Patrick Collins.
